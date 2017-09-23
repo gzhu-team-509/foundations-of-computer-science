@@ -12,3 +12,4 @@ Team509 计算机科学导论课程内容仓库
 
 - **联系方式** 914934785@qq.com
 - **答疑时间** 周二 13:50 ~ 17:30
+- **答疑地点** Room 616, Front Zone, West Wing, Admin Buiding
