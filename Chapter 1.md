@@ -45,3 +45,19 @@ notion, tedious, resemblance, polynomial, preceding, bulky, vacuum tubes, transi
 - **第三代计算机** 集成电路的发明和使用 封装程序的销售
 - **第四代计算机** 微型计算机的出现和计算机网络的形成
 - **第五代计算机** 掌上电脑和台式电脑的诞生、媒体技术的革新、虚拟现实……
+
+## 课后习题
+
+### 键盘、打印机和磁盘的起源
+
+- [键盘](https://zh.wikipedia.org/wiki/%E7%94%B5%E8%84%91%E9%94%AE%E7%9B%98#.E5.8E.86.E5.8F.B2)起源于第三代计算机时期。
+- [打印机](https://en.wikipedia.org/wiki/History_of_printing#Dot_matrix_printer_.281968.29)起源于第三代计算机时期。
+- [磁盘](https://en.wikipedia.org/wiki/Magnetic_storage#History)起源于第四代计算机时期。
+
+### Pascsline、莱布尼茨之轮、提花织机、差分引擎和Tabulator
+
+- [Pascsline](https://en.wikipedia.org/wiki/Pascal%27s_calculator)
+- [莱布尼茨之轮](https://en.wikipedia.org/wiki/Leibniz_wheel)
+- [提花织机](https://en.wikipedia.org/wiki/Jacquard_loom)
+- [差分引擎](https://en.wikipedia.org/wiki/Difference_engine)
+- [Tabulator](https://en.wikipedia.org/wiki/Tabulating_machine)
