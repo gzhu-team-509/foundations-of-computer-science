@@ -17,7 +17,7 @@ algebraic, trigonometric, intensity, grainy, decompose, curve, coordinate, quant
 
 编码一个字符需要的比特数由语言符号的数量决定，假设语言符号有n种，那么至少需要log₂n个比特的组合来表示这种语言。
 
-- **美国标准信息交换码（ASCII，American Standard Code for Information Interchange）** 由ANSI（American National Standards Institude）开发，使用7个比特来表示英语符号。大写字母在小写字母前，大写字母与对应的小写字母只在第六位不同。
+- **美国标准信息交换码（ASCII，American Standard Code for Information Interchange）** 由ANSI（American National Standards Institude）开发，使用7个比特来表示英语符号。**大写字母在小写字母前**，大写字母与对应的小写字母只在**尤其第六位**（即权重2^5位置）不同。
 - **拓展的美国标准信息交换码（Extended ASCII）** 使用8个比特来表示语言符号。
 - **EBCDIC（Extended Binary Coded Decimal Interchange Code）** 使用8个比特的组合来表示语言符号。
 - **Unicode** 使用16个比特的组合来表示语言符号。
